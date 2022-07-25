@@ -28,5 +28,4 @@ const PlaceList = props => {
     )
 };
 
-
 export default PlaceList;
