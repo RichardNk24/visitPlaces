@@ -46,8 +46,8 @@ const DUMMY_PLACES = [
         imageUrl: 'https://www.kwafrikatravel.com/wp-content/uploads/2020/01/Chalet.jpg',
         address: 'located 130 kilometers (90 miles) from Kinshasa',
         location: {
-            lat: 41.8902102, 
-            lng: 12.4890371
+            lat: -4.7776877, 
+            lng: 14.9042361
         },
         creator: 'u2'
     },
@@ -58,8 +58,8 @@ const DUMMY_PLACES = [
         imageUrl: 'https://images.contentstack.io/v3/assets/blt00454ccee8f8fe6b/bltedce0a1c7693acbc/6139d401402ba23dfc223db6/US_CapeTown_SA_Header.jpg?width=1680&quality=70&auto=webp',
         address: '19 Dock Rd, Cape Town, 8001, South Africa',
         location: {
-            lat: 18.3879888, 
-            lng: -33.9062478
+            lat: -33.906689, 
+            lng: 18.4207154
         },
         creator: 'u2'
     }
