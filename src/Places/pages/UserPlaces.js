@@ -16,7 +16,7 @@ const DUMMY_PLACES = [
         creator: 'u1'
     },
     {
-        id: 'p1',
+        id: 'p2',
         title: 'Burj Khalifa',
         description: 'The tallest sky scrapers in the world',
         imageUrl: 'https://i.ytimg.com/vi/lflCmjW7RlI/maxresdefault.jpg',
@@ -28,7 +28,7 @@ const DUMMY_PLACES = [
         creator: 'u1'
     },
     {
-        id: 'p1',
+        id: 'p3',
         title: 'Coliseum',
         description: 'Legendary Gladiator arena located in Roma, Italy',
         imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1200px-Colosseo_2020.jpg',
@@ -36,6 +36,30 @@ const DUMMY_PLACES = [
         location: {
             lat: 41.8902102, 
             lng: 12.4890371
+        },
+        creator: 'u2'
+    },
+    {
+        id: 'p4',
+        title: 'Zongo Park',
+        description: 'Beautiful in the middle of the nature in Kinshasa, Democratic Republic Of Congo',
+        imageUrl: 'https://www.kwafrikatravel.com/wp-content/uploads/2020/01/Chalet.jpg',
+        address: 'located 130 kilometers (90 miles) from Kinshasa',
+        location: {
+            lat: 41.8902102, 
+            lng: 12.4890371
+        },
+        creator: 'u2'
+    },
+    {
+        id: 'p5',
+        title: 'W&A waterfront Cape Town',
+        description: 'A stunning place to shop, drink and eat in Cape Town',
+        imageUrl: 'https://images.contentstack.io/v3/assets/blt00454ccee8f8fe6b/bltedce0a1c7693acbc/6139d401402ba23dfc223db6/US_CapeTown_SA_Header.jpg?width=1680&quality=70&auto=webp',
+        address: '19 Dock Rd, Cape Town, 8001, South Africa',
+        location: {
+            lat: 18.3879888, 
+            lng: -33.9062478
         },
         creator: 'u2'
     }
